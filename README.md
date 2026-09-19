@@ -3,17 +3,19 @@
 
 - 💼 I’m currently working at **Adria Business & Technology** on an eIDAS-compliant **electronic signature and seal** platform
 
+- 🚀 I’m focused on **building SaaS products** outside of work
+
 - 👨‍💻 All of my projects are available at [github.com/aimranee](https://github.com/aimranee)
 
 - 📫 How to reach me: [https://www.linkedin.com/in/aimrane-essakhi](https://www.linkedin.com/in/aimrane-essakhi)
 
 Since August 2024, I have been a software engineer at Adria Business & Technology, where I build a highly scalable electronic signature and seal application with **Java, Spring, and a microservices architecture**. I also set up its **PKI infrastructure** with Thales Luna HSM and EJBCA, and automated database replication, backups, vulnerability management, and centralized logging.
 
+Alongside my job, my focus is **building SaaS products** end to end. One gives **schools a single place to manage their students, teachers, and classes**. Another lets a **trainer sell and deliver live training online**: learners book and pay for a session, then follow their progress through to a certificate. I own them from idea to production, covering product decisions, architecture, security, and delivery, mostly in **TypeScript, Next.js, and Node.js**.
+
 In July 2024, I earned my **engineering degree in computer science** from École Marocaine des Sciences de l'Ingénieur. My thesis project, built with Adria DigiTrust, was an **API-based notification management system**: customizable e-mail and SMS content, secure short URLs, and user preference settings, on **Spring Boot and Spring Cloud**.
 
 Before that, I built an **AI-powered web app** for reviewing scientific health articles at the Social Innovation Lab (UM6P), two **Flutter and Node.js** mobile apps for laboratory management at Potentiel 2 Maroc, and a B2B platform with **Symfony** at Marrakech Telecom.
-
-Outside of work, I build mostly in **TypeScript and Node.js**, with a focus on frontend projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
